@@ -1,2 +1,2 @@
 # LeetCode
-Save my Leecode Codes
+LeetCode Codes
